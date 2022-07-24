@@ -1,1 +1,1 @@
-worker: node .
+worker: bash install.sh
