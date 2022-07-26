@@ -1,12 +1,9 @@
 {
-  "name": "ShiraoriBOT-Md",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
+  "name": "bot",
+  "description": "Recode by Wan",
+  "repository": "https://github.com/WanGg9981/bot",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": [
-    "bot",
-    "whatsapp",
-    "multi-device",
-    "whatsapp-bot"
+    "bot"
   ]
 }
