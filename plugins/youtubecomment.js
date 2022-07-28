@@ -6,7 +6,7 @@ let handler = async (m, { conn, text }) => {
         username: m.pushName
     }), 'result.png', 'Done', m)
 }
-handler.help = ['']
+handler.help = ['youtubecomment']
 handler.tags = ['']
 handler.command = /^(youtubecomment)$/i
 module.exports = handler
