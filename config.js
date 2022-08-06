@@ -22,10 +22,8 @@ global.APIKeys = {
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
-global.stiker_wait = `
-tiberbot.herokuapp.com
-Free music bot for discord server.
-`
+global.stiker_wait = `tiberbot.herokuapp.com
+Free music bot for discord server.`
 global.packname = 'Made by Bot Wan'
 global.author = 'Sticker'
 global.namabot = ''
