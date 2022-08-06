@@ -22,9 +22,9 @@ global.APIKeys = {
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
-global.stiker_wait = 'Sticker sedang dibuat'
-global.packname = 'Bot'
-global.author = 'Wan'
+global.stiker_wait = 'tiberbot.herokuapp.com Free music bot for discord server.'
+global.packname = 'Made by Bot Wan'
+global.author = 'Sticker'
 global.namabot = ''
 global.fla = ''
 global.wm = ''
